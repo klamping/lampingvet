@@ -1,0 +1,21 @@
+{
+  "name": "lampingvet",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {},
+  "devDependencies": {
+    "gh-pages": "^0.3.1"
+  },
+  "scripts": {
+    "deploy": "gh-pages -d www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klamping/lampingvet.git"
+  },
+  "author": "Kevin Lamping",
+  "bugs": {
+    "url": "https://github.com/klamping/lampingvet/issues"
+  },
+  "homepage": "https://klamping.github.io/lampingvet"
+}
